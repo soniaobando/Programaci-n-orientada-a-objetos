@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c0f619-7384-48d4-ad02-4c813222954b" name="Changes" comment="Trabajo realizado el 16/06/2024, mostrando la poo y la tradicional" />
+    <list default="true" id="03c0f619-7384-48d4-ad02-4c813222954b" name="Changes" comment="Trabajo realizado el 16/06/2024, mostrando la poo y la tradicional">
+      <change afterPath="$PROJECT_DIR$/Funcionalidad, tipos de datos, identificaddores.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Funcionalidad, tipos de datos, identificaddores.executor": "Run",
     "Python.SEMANA 2, SEMESTRE 2.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
     "Python.semana 3.executor": "Run",
@@ -63,6 +66,7 @@
       <workItem from="1717965358911" duration="646000" />
       <workItem from="1718570395069" duration="21000" />
       <workItem from="1718589045267" duration="316000" />
+      <workItem from="1719795337663" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajo realizado el 09/06/2024">
       <option name="closed" value="true" />
@@ -113,6 +117,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject4$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1717965498627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps" />
     <SUITE FILE_PATH="coverage/pythonProject4$semana_3.coverage" NAME="semana 3 Coverage Results" MODIFIED="1718589203360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject4$Funcionalidad__tipos_de_datos__identificaddores.coverage" NAME="Funcionalidad, tipos de datos, identificaddores Coverage Results" MODIFIED="1719795481617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject4$SEMANA_2__SEMESTRE_2.coverage" NAME="SEMANA 2, SEMESTRE 2 Coverage Results" MODIFIED="1717965543339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
